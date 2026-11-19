@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# Run / dev environment
+run/
+runs/
+logs/
+crash-reports/
+
+# Local tooling and notes
+docs/
+*.log
+*.bak
+*.orig

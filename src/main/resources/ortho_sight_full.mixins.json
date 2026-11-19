@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.abstruck.ortho_sight.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerSneakEdgeMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}

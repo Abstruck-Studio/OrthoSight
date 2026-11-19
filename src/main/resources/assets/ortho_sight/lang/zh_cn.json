@@ -1,0 +1,6 @@
+{
+  "key.categories.ortho_sight": "正交视角",
+  "key.ortho_sight.rotate_left": "正交相机左转",
+  "key.ortho_sight.rotate_right": "正交相机右转",
+  "key.ortho_sight.toggle_cone": "透视"
+}

@@ -1,0 +1,6 @@
+{
+  "key.categories.ortho_sight": "OrthoSight",
+  "key.ortho_sight.rotate_left": "Rotate Camera Left",
+  "key.ortho_sight.rotate_right": "Rotate Camera Right",
+  "key.ortho_sight.toggle_cone": "X-Ray Toggle"
+}

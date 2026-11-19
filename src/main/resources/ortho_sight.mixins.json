@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.abstruck.ortho_sight.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BlockEntityRenderMixin",
+    "CameraMixin",
+    "FrustumMixin",
+    "GameModeMixin",
+    "GameRendererMixin",
+    "InputMixin",
+    "MinecraftInvoker",
+    "MinecraftMixin",
+    "ProjectionMixin",
+    "SectionOcclusionGraphMixin",
+    "ShaderMixin",
+    "SoundEngineMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
